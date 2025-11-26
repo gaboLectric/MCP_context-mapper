@@ -64,9 +64,6 @@ El servidor funciona "out-of-the-box", pero puedes personalizarlo modificando el
 *   **Ignorar carpetas**: Modifica el `Set` de `ignoredFolders` para añadir o quitar directorios.
 *   **Profundidad por defecto**: Cambia el valor por defecto en el esquema de Zod.
 
-## 📚 Documentación Técnica
-Para una explicación detallada del funcionamiento interno, diagramas de flujo y explicación del código, consulta [DOCUMENTATION.md](./DOCUMENTATION.md).
-
 ## 🤝 Contribuyendo
 ¡Las contribuciones son bienvenidas!
 1.  🐛 Reporta bugs.
