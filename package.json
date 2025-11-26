@@ -1,0 +1,26 @@
+{
+    "name": "context-mapper",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "MCP server to map context of a software project",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/index.js"
+    },
+    "keywords": [
+        "mcp",
+        "context",
+        "mapper"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@modelcontextprotocol/sdk": "^0.6.0",
+        "zod": "^3.23.8"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.0",
+        "typescript": "^5.3.3"
+    }
+}
