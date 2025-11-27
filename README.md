@@ -20,8 +20,8 @@ Diseñado para ser ligero, rápido y ejecutarse localmente, este servidor MCP pe
 No necesitas instalar nada globalmente si no quieres. Simplemente clona este repositorio, construye y conecta.
 
 1.  **Clonar y Construir**:
-    ```bash
-    git clone <tu-repo-url>
+    ```
+    git clone https://github.com/gaboLectric/MCP_context-mapper
     cd context-mapper
     npm install
     npm run build
